@@ -113,4 +113,4 @@ Luego abrir `http://localhost:8000` en el navegador, seleccionar el agente `agen
 
 ## Autor
 
-Santiago Ayala
+Santiago Tomás Ayala
